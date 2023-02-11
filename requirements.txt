@@ -9,7 +9,7 @@ et-xmlfile==1.1.0
 executing==0.9.1
 fhconfparser==2022
 idna==3.3
-ipython==8.4.0
+ipython==8.10.0
 jedi==0.18.1
 -e licensecheck
 matplotlib-inline==0.1.3
